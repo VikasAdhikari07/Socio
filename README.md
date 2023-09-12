@@ -1,0 +1,3 @@
+# Socio
+A Social Media Platform
+Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
